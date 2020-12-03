@@ -1,79 +1,79 @@
 ============================================
-Manage Social Media Pages and Create Content
+Quản lý các trang mạng xã hội và tạo nội dung
 ============================================
 
-Once you are present on social media platforms, it is important to keep them up-to-date. However,
-that might feel like a full-time job. Having a solution that allows you to create, schedule, keep
-track, engage with your audience and measure results saves you time and helps you to successfully
-execute your online strategy, from posts to results.
+Một khi bạn hiện diện trên các nền tảng truyền thông xã hội, điều quan trọng là phải cập nhật chúng. Tuy nhiên,
+đó có thể giống như một công việc toàn thời gian. Có một giải pháp cho phép bạn tạo, lên lịch, giữ
+theo dõi, tương tác với khán giả của bạn và đo lường kết quả giúp bạn tiết kiệm thời gian và giúp bạn thành công
+thực hiện chiến lược trực tuyến của bạn, từ bài đăng đến kết quả.
 
 
-Add accounts and create your feed
+Thêm tài khoản và tạo nguồn cấp dữ liệu của bạn
 =================================
 
-Click on *Add Stream* and grant the required permissions to add your accounts.
+Nhấp vào * Thêm luồng * và cấp các quyền cần thiết để thêm tài khoản của bạn.
 
-.. image:: media/add_streams.png
-   :align: center
-   :alt: Click on add streams to add accounts in Odoo Social Marketing
+.. image :: media / add_streams.png
+   : align: center
+   : alt: Nhấp vào thêm luồng để thêm tài khoản trong Tiếp thị xã hội Odoo
 
-.. note::
-   You can link a Facebook page for which you are the admin.
+.. Ghi chú::
+   Bạn có thể liên kết một trang Facebook mà bạn là quản trị viên.
 
-| You are then redirected to your *Feed* and a column with the publications is automatically added.
-| You can then add new accounts and/or streams, such as Facebook mentions, and customize your
-  Kanban view.
+| Sau đó, bạn được chuyển hướng đến * Nguồn cấp dữ liệu * của mình và một cột có các ấn phẩm được tự động thêm vào.
+| Sau đó, bạn có thể thêm tài khoản và / hoặc luồng mới, chẳng hạn như đề cập trên Facebook và tùy chỉnh
+  Chế độ xem Kanban.
 
-.. image:: media/feed.png
-   :align: center
-   :alt: See all streams in the feed in Odoo Social Marketing
+.. image :: media / feed.png
+   : align: center
+   : alt: Xem tất cả các luồng trong nguồn cấp dữ liệu trong Tiếp thị xã hội của Odoo
 
-Adding social media accounts to your feed will also link KPIs. To get redirected to the statistics
-page of the social account, click on *Insights*.
+Thêm các tài khoản mạng xã hội vào nguồn cấp dữ liệu của bạn cũng sẽ liên kết các KPI. Để được chuyển hướng đến thống kê
+trang của tài khoản xã hội, nhấp vào * Thông tin chi tiết *.
 
-.. image:: media/insights.png
-   :align: center
-   :alt: Click on insights to be redirected to the social account from Odoo Social Marketing
+.. image :: media / insights.png
+   : align: center
+   : alt: Nhấp vào thông tin chi tiết để được chuyển hướng đến tài khoản xã hội từ Tiếp thị xã hội Odoo
 
-Link a LinkedIn account
+Liên kết tài khoản LinkedIn
 -----------------------
 
-Go to :menuselection:`Social Marketing --> Configuration --> Social Media`.
+Đi tới: menuelection: `Tiếp thị xã hội -> Cấu hình -> Truyền thông xã hội`.
 
-.. image:: media/add_linkedin.png
-   :align: center
-   :alt: Go to configuration to link a linkedin account in Odoo Social Marketing
+.. image :: media / add_linkedin.png
+   : align: center
+   : alt: Đi tới cấu hình để liên kết tài khoản linkedin trong Tiếp thị xã hội Odoo
 
-.. note::
-   LinkedIn is in Beta Version, therefore, the feed is not available. Only the creation of content.
+.. Ghi chú::
+   LinkedIn đang ở Phiên bản Beta, do đó, nguồn cấp dữ liệu không có sẵn. Chỉ việc tạo ra nội dung.
 
-Publish content
+Xuất bản nội dung
 ===============
 
-Click on :menuselection:`Social Marketing --> Feed --> New Post`, or go to
-:menuselection:`Social Marketing --> Posts → Create`.
+Nhấp vào: menuelection: `Social Marketing -> Feed -> New Post`, hoặc chuyển đến
+: menuelection: `Tiếp thị xã hội -> Bài đăng → Tạo`.
 
-.. image:: media/publish_content.png
-   :align: center
-   :alt: Click on create or new post to create and publish content in Odoo Social Marketing
+.. image :: media / Publishing_content.png
+   : align: center
+   : alt: Nhấp vào tạo hoặc đăng bài mới để tạo và xuất bản nội dung trong Odoo Social Marketing
 
-| Choose to upload your post right away or to schedule it.
-| Saving your post will apply a draft status to it.
+| Chọn tải lên bài đăng của bạn ngay lập tức hoặc lên lịch.
+| Lưu bài đăng của bạn sẽ áp dụng trạng thái nháp cho nó.
 
-Overview and plan your posts with a calendar view
+Tổng quan và lập kế hoạch cho các bài đăng của bạn với chế độ xem lịch
 =================================================
 
-| Through the calendar view, besides having an overview of your planned day, week or month, also see
-  your drafted, scheduled and published posts.
-| Drag and drop (scheduled posts) to change their scheduled date.
-| Double-click on a date to create a post directly from the *Calendar view*, and click on an
-  existing one to edit it.
+| Thông qua chế độ xem lịch, ngoài việc có một cái nhìn tổng quan về ngày, tuần hoặc tháng đã lên kế hoạch của bạn, còn có
+  bài viết được soạn thảo, lên lịch và xuất bản của bạn.
+| Kéo và thả (bài đăng đã lên lịch) để thay đổi ngày đã lên lịch của họ.
+| Bấm đúp vào một ngày để tạo một bài đăng trực tiếp từ * Chế độ xem lịch * và bấm vào một
+  hiện có để chỉnh sửa nó.
 
-.. image:: media/calendar_view.png
-   :align: center
-   :alt: Click on the calendar view option in Odoo Social Marketing
+.. image :: media / calendar_view.png
+   : align: center
+   : alt: Nhấp vào tùy chọn xem lịch trong Tiếp thị xã hội của Odoo
 
-.. seealso::
-   - :doc:`./push_notifications`
-   - :doc:`./campaigns`
-   - :doc:`./livechat`
+.. Xem thêm::
+   -: doc: `. / push_notifications`
+   -: doc: `. / chiến dịch`
+   -: doc: `. / livechat`
